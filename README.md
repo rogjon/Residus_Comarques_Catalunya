@@ -13,7 +13,6 @@ Per executar el programa primerament s’han d’instal·lar aquests mòduls:
 ```
   pip install requests
   pip install beautifulsoup4
-  pip install csv (Comentari: no em recordo si aquest mòdul ja ve instal·lat amb python. Si és així,s’ha de treure)
 ```
 i per executar el programa:
 ```
