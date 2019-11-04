@@ -1,4 +1,4 @@
-# Práctica 1: Web scraping(Residus comarques de Catalunya 2017)
+# Pràctica 1: Web scraping(Residus comarques de Catalunya 2017)
 
 ## Membres del equip
 
@@ -21,7 +21,7 @@ i per executar el programa:
   
 Les dades es guardaren al fitxer ‘Residus_Comarques.csv’. Podeu trobar més detalls sobre les dades al document ‘Practica1.pdf’.
 
-## Fitxers de códi font
+## Fitxers de còdi font
 * **Practica1.pdf**: respostes a les preguntes de la pràctica.
 * **Dades_Idescat.py**: codi escrit en python per a extreure les dades.
 * **Residus_Comarques.csv**: la base de dades referent als residus de Catalunya per comarques.
